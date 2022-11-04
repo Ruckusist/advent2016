@@ -1,4 +1,4 @@
-from .src.utils import Open
+from .src.utils import Open, Day
 from .src.day1 import Day1
 from .src.day2 import Day2
 from .src.day3 import Day3
